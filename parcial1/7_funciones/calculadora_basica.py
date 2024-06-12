@@ -41,23 +41,9 @@ while entrada:
     else:
         print("Opcion no valida. Por favor, elige una opcion valida.")
 """
-"""
+
 #calculadora con funciones
-def sumar(a, b):
-    return a + b
-
-def restar(a, b):
-    return a - b
-
-def multiplicar(a, b):
-    return a * b
-
-def dividir(a, b):
-    if b != 0:
-        return a / b
-    else:
-        return "Error: División por cero no permitida."
-
+from otras_funciones import *
 
 def calculadora():
     while True:
@@ -106,5 +92,4 @@ while opcion:
     else:
         opcion = False
         print("Ejecucion terminada")
-
-
+"""
