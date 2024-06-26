@@ -168,4 +168,4 @@ class camionetas(Coches):
        print(f"Marca: {self.getMarca()} {self.getColor()}, numeros de plazas: {self.getPlazas()} Modelo: {self.getModelo()} con una velocidad de {self.getVelocidad()} Km/h y una potencia de {self.getCaballaje()} hp de tracción {self.getTraccion()} y esta cerrada: {self.getCerrada()}")
 
 
-#Fin definir clase
+#Fin definir clases

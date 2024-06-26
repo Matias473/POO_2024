@@ -26,3 +26,5 @@ camioneta1.getInformacion()
 print("objeto 6")
 camioneta1 = camionetas("Blanca", "Nissan", "2020", 180, 160, 6,"trasera", False)
 camioneta1.getInformacion()
+
+#final
